@@ -1,0 +1,459 @@
+[[BVLS]]
+arch = "aarch64"
+git-tree-sha1 = "ad9d32b734037fd5aeca069698dbd89b4ea12989"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[BVLS.download]]
+    sha256 = "6cdddc3968b638a00992d8872d72de637a12ccd618c834e1e2e9497f0c26f55c"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[BVLS]]
+arch = "aarch64"
+git-tree-sha1 = "ccdffedc617ca7247450c205276e6f1f9d21abed"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[BVLS.download]]
+    sha256 = "f77ac7715eac5b0fd6856d856b5dfd94e3a75e5a5bd3048f61407671d4c2f548"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[BVLS]]
+arch = "aarch64"
+git-tree-sha1 = "5e80a6e86b079396f7d7e0c9871716c64b7ad831"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[BVLS.download]]
+    sha256 = "629eea3ee8354392c6b6844b25690b0b763012bf2aa6011b214eeb8caaf25034"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[BVLS]]
+arch = "aarch64"
+git-tree-sha1 = "b741742bfbb6a4969f9356534cbb1e2b533cbdc2"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[BVLS.download]]
+    sha256 = "a25aa9f17df4cdbf4b94953c32b9c7eb45aab1c59b3ab9065aa15ae740247d92"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[BVLS]]
+arch = "aarch64"
+git-tree-sha1 = "71b101281741f906276c98ecd46fed6bf89d778d"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[BVLS.download]]
+    sha256 = "60d3e80159e5e5214761360762943ce6ca11a1301e68ea95ec6a0688ddccaa9b"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.aarch64-linux-musl-libgfortran3.tar.gz"
+[[BVLS]]
+arch = "aarch64"
+git-tree-sha1 = "277ccb0899fd1026c286a2008e4962e3af94cf24"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[BVLS.download]]
+    sha256 = "22558b1df0a4c0493a2bf20b90286633173fe5c177036dbd8372037273ea5180"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.aarch64-linux-musl-libgfortran4.tar.gz"
+[[BVLS]]
+arch = "aarch64"
+git-tree-sha1 = "9549ebd9f3081ee0a0438a89377ed9d5238a5e48"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[BVLS.download]]
+    sha256 = "b2b6ba8e1ddf5c885beb11e894124037eab58bbb71bfb5ed9a33d821c87e1eb5"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.aarch64-linux-musl-libgfortran5.tar.gz"
+[[BVLS]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "acd39b464a6a9ae013173ae6057ccfd607adefba"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[BVLS.download]]
+    sha256 = "7ef45508911bcf2c7186ec9878dfaa2e598cdba720dbb59b326c3458eaa05e4d"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+[[BVLS]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "93a73f49a43ccd37f88f30773a6feacf2a1877b6"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[BVLS.download]]
+    sha256 = "93bf9576a5cba4d77cb1e345fb25e36c8ece828fa3f5d226d604c6cc8e475e7b"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+[[BVLS]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "82de2efb35a5712dea5a89ad7fea6a184a232f17"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[BVLS.download]]
+    sha256 = "5d64b73f717ab383dd84fa2cf014e4f206c6ba4897beee3f65990800bd0cde45"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[BVLS]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "69ef89dab62f90d2f39398fd5ee6e78e958e71c6"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[BVLS.download]]
+    sha256 = "3ee7b91183bcbc7214e92fb9f6a80edfead1b1521e2cfdf468936244a6d67519"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+[[BVLS]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "621fd1948d8c8cf0caa5c0445a055a010f85e46e"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[BVLS.download]]
+    sha256 = "bbdbe83790b0dccbbf6dcb330e4716e0de28859eb2ade7c428ea12df9cbb0600"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+[[BVLS]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "ad51ba309182f0463b815b66e79a6bef645d614f"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[BVLS.download]]
+    sha256 = "aa4a97491acbb74a4e701ffeaf294a49f0f8086a4124c97180a1c81709c2fe71"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+[[BVLS]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "15f3e77ed9a894ed89614338a180b642a84528f5"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[BVLS.download]]
+    sha256 = "6df4e5f9f67c048d909f0bae66d95610a2bc6a86a53b1c6a9719b37157e78184"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[BVLS]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "7a22d11ee8c6feb4cb36ac2b0daeed63ea3c2677"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[BVLS.download]]
+    sha256 = "aee1466997a4ffb1a1a6bf72d280f9864f1bc08c4de0924a9da9488388be795c"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[BVLS]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "3f0369fe45072eb250f2592552e4a868fa57e5b6"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[BVLS.download]]
+    sha256 = "ff027c8cbfa72e654b5a643008ce459c515d728e3b21053bc68b21a6bbc99cab"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[BVLS]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "392c61efb50e6ba3b1300aa8d6c9c1ad6c3bdb76"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[BVLS.download]]
+    sha256 = "346655e7019c5704b3927c013224f0b68b0006fea0693c3a54b28af6000a3750"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+[[BVLS]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "300bdecd9796fe18fe2a5d4880f0d56d9bd54879"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[BVLS.download]]
+    sha256 = "85c2c89adeacfa76bc37192f6d34d9cfae55a490e161d93184b850c7d4dcb1f9"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+[[BVLS]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "6376ec5bb5823c806852107b64e5831c3ea61424"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[BVLS.download]]
+    sha256 = "fc48523792cd310da625bc8acc2eecaac0d8d0a46bf0c9aa07fff500f7e32b37"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[BVLS]]
+arch = "i686"
+git-tree-sha1 = "0409eb3afd1f64eb17bf11dfe719e7213b10f0ec"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[BVLS.download]]
+    sha256 = "26e68798c51bd5eadd6b4184d14c029bd3d49114f39dca6b907b513185449e63"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.i686-linux-gnu-libgfortran3.tar.gz"
+[[BVLS]]
+arch = "i686"
+git-tree-sha1 = "73791e7eda93a7894e76ca581a7a4a381a72004f"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[BVLS.download]]
+    sha256 = "417b9008a4e5f2490f04a4808ab8c2714a8248aa52c8e3034059ae93c006cbe2"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.i686-linux-gnu-libgfortran4.tar.gz"
+[[BVLS]]
+arch = "i686"
+git-tree-sha1 = "768ec52312f82068147f720bb51cce332a39c294"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[BVLS.download]]
+    sha256 = "6bcd26ddab52accd7f88843d27feeec566b603280f34e670c5231394e21dd38e"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.i686-linux-gnu-libgfortran5.tar.gz"
+[[BVLS]]
+arch = "i686"
+git-tree-sha1 = "75d17d74a9d70a05c7fe7a3179bbcd6aaab33518"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[BVLS.download]]
+    sha256 = "8d007f06e6d73e3f054d9db37bfdbc374fa4c79f10470d1bcb32ee85a4ca7b4b"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.i686-linux-musl-libgfortran3.tar.gz"
+[[BVLS]]
+arch = "i686"
+git-tree-sha1 = "80c3c74514308d4bea3d0a21423d97f20b87caba"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[BVLS.download]]
+    sha256 = "27b2092354271ea265837e348705900b683ec2628b22369f2aa8be92157bccbe"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.i686-linux-musl-libgfortran4.tar.gz"
+[[BVLS]]
+arch = "i686"
+git-tree-sha1 = "995d7026d01b6a9b98163f9f5c62a0daf7886d71"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[BVLS.download]]
+    sha256 = "8a7f0b9c828f097c1e4ce85e790f9ebe8684f2fd8f8a5c4fce98b89d071d722d"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.i686-linux-musl-libgfortran5.tar.gz"
+[[BVLS]]
+arch = "i686"
+git-tree-sha1 = "f4540dda6f589c4c9b2ad7413b929e60fe682d20"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[BVLS.download]]
+    sha256 = "5b79456ab413b6fcb5b2ecc854c8b3d6e99a5a0e734ff10a5418952f08463d37"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.i686-w64-mingw32-libgfortran3.tar.gz"
+[[BVLS]]
+arch = "i686"
+git-tree-sha1 = "f0818840924e5b188a4f39efa5d08063b8f99aae"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[BVLS.download]]
+    sha256 = "8089a9de667388eecf3b090fb5816b999b2e023de23f1ffb38a18d6e8784ca67"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.i686-w64-mingw32-libgfortran4.tar.gz"
+[[BVLS]]
+arch = "i686"
+git-tree-sha1 = "d55bdd4f286b5c60394086a87cfd0da7af8a8912"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[BVLS.download]]
+    sha256 = "f2b9aeae241750ae6e5a99a6f6eafc38d80e22dae43dec7790f95e5903c4f654"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.i686-w64-mingw32-libgfortran5.tar.gz"
+[[BVLS]]
+arch = "powerpc64le"
+git-tree-sha1 = "b1df90028b1c9012eae0bac87d31a59f9bea604b"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[BVLS.download]]
+    sha256 = "c9af3ea7ca1ad34635a6eee77acbdde6831328a123da51f8b4d335584c44e8a3"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[BVLS]]
+arch = "powerpc64le"
+git-tree-sha1 = "154d41b8f274a6adf8edbb4a5860783705d27a39"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[BVLS.download]]
+    sha256 = "9b2e201b698906d60f15f914e242c583ab2920583ee7060cdb17324a475571ef"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[BVLS]]
+arch = "powerpc64le"
+git-tree-sha1 = "cce9931497f37429a8fdf901552ebd55c95fc803"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[BVLS.download]]
+    sha256 = "650fb04f89a41f4375335d746527a2e13a86bd037fe4127f5287c251a701c54c"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[BVLS]]
+arch = "x86_64"
+git-tree-sha1 = "fdba87c163501e7ade3094df1d10da14efec3e61"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[BVLS.download]]
+    sha256 = "4a49afed5386a6c687a0a41e11294dcc859783e0ea45e319843ff29b8e3afb37"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[BVLS]]
+arch = "x86_64"
+git-tree-sha1 = "60723359561dfd8ee3cbd0920631187e969870b0"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[BVLS.download]]
+    sha256 = "15673e59349f5e50cf97914248ad0f15b8349031fe7286a9640cfbf05685c7c3"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[BVLS]]
+arch = "x86_64"
+git-tree-sha1 = "b3cf23c9835dd768a9c57ebf373ce0aea39d5df3"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[BVLS.download]]
+    sha256 = "8a407e2d01aa1f05c6f5c84ae2220810b9c8698095f9878cda257c13e15f680d"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[BVLS]]
+arch = "x86_64"
+git-tree-sha1 = "e15cc6ebb29239992deb3ebf3a7bf4549613d0da"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[BVLS.download]]
+    sha256 = "ddbe1fd8d5e9bf5ee677ee3873515b9002373616960f7d70bc9f4b0b56d85280"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[BVLS]]
+arch = "x86_64"
+git-tree-sha1 = "c9e6b0ba39728df0487961d7a6af36a09c302660"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[BVLS.download]]
+    sha256 = "9d647c7e4949a00633fed30a908723bb5c311fb1df622b3703da64d09d508cd5"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[BVLS]]
+arch = "x86_64"
+git-tree-sha1 = "391360ab999d685ad39a073fe97bb8432d775581"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[BVLS.download]]
+    sha256 = "76caa87d6b9308c0fc6c8d07df203753729d20c2e88c4765b1378a0bb7861bba"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[BVLS]]
+arch = "x86_64"
+git-tree-sha1 = "4858681467dfc126e753c29d3b3cd4b620c24947"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[BVLS.download]]
+    sha256 = "ab15a42da9dfae0ec858cf2ee12758aa4e74e9ea5a3460370e5cf2b1cac9beaa"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.x86_64-linux-musl-libgfortran3.tar.gz"
+[[BVLS]]
+arch = "x86_64"
+git-tree-sha1 = "e09cbaf26489b56eceed264c97e821fa91c63491"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[BVLS.download]]
+    sha256 = "0ac9aff64b80915c89f009b78296c4b38fb39800aa43c84ca123cf25ed5cd117"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.x86_64-linux-musl-libgfortran4.tar.gz"
+[[BVLS]]
+arch = "x86_64"
+git-tree-sha1 = "541652ff43a7a58336373cd620df7ab8c439b39f"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[BVLS.download]]
+    sha256 = "ba2ab914a1b8a4fa72e9e5b0c9cae8e3995e053e5f91a61394b4e5e593568ec4"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.x86_64-linux-musl-libgfortran5.tar.gz"
+[[BVLS]]
+arch = "x86_64"
+git-tree-sha1 = "64a863ac3cb821cf9d51abfdf9eda37bce9730da"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[BVLS.download]]
+    sha256 = "90110327a0e8a26ad34d7174e56ab37e5a348bc3d79c86ae6bf701fd3bc14708"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+[[BVLS]]
+arch = "x86_64"
+git-tree-sha1 = "1fdb739a520ba52dc0b196f93503e1ac7f4d6167"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[BVLS.download]]
+    sha256 = "78fe7ff2c4a1a1004bf5b0e5fa054729b9bb6a844d10455e94c1cc7bfd7f6473"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+[[BVLS]]
+arch = "x86_64"
+git-tree-sha1 = "74fa6437030a8cda28360a2900ef494e1ab090bb"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[BVLS.download]]
+    sha256 = "088e58f7d2472b7f2ec087b04e9a623c9e8de59d81753afdb68241dc0fc74656"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[BVLS]]
+arch = "x86_64"
+git-tree-sha1 = "14991f2295def4f440d721256399832a4552c454"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[BVLS.download]]
+    sha256 = "fffc87026bd67bf1f4df5c172125f191c0c67450dc09d0297745ea68ed351b9a"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[BVLS]]
+arch = "x86_64"
+git-tree-sha1 = "27675cb59baf893e6d31d284b2593deebf56758f"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[BVLS.download]]
+    sha256 = "82870adf2f92d56aabe0fbd410ce5248596ead5ae538b8a6820f48f6c4073831"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[BVLS]]
+arch = "x86_64"
+git-tree-sha1 = "029160e3ec1b6668d7bb84a859dc482f48289312"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[BVLS.download]]
+    sha256 = "3f03f405bb116854df0be9d355b6e4981b4c319c047977f0c1c168a6e28cb832"
+    url = "https://github.com/JuliaBinaryWrappers/BVLS_jll.jl/releases/download/BVLS-v1990.3.19+0/BVLS.v1990.3.19.x86_64-w64-mingw32-libgfortran5.tar.gz"
